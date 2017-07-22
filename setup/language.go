@@ -1,4 +1,4 @@
-/* My Setup Sucks
+/* Tools suck.
 
 I tried my best to choose the one that sucks less.
 */
