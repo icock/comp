@@ -23,6 +23,9 @@ which supports none of JavaScript, CSS, and images.
 As an alternative to a console browser,
 readers can also clone the repository,
 and view and search notes via the `go doc` command line.
+Or access the plain text version of godoc.org:
+
+    curl -H 'Accept: text/plain' https://godoc.org/github.com/icock/comp/about
 
 Comments can be sent as a pull request or an issue.
 This can be done via command line, GUI client, or web.
